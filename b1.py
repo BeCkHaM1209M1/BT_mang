@@ -17,8 +17,8 @@ def so_nguyen_to(S):
                     i = j+1
                     break
             number_inS.append(int(strings))
-        else:
-            i += 1
+        
+        i += 1
 
     #check so nguyen to
     flag = 1
